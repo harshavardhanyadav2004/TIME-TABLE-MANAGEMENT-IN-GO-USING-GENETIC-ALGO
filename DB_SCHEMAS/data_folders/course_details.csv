@@ -1,0 +1,91 @@
+course_name,branch_id
+Digital Signal Processing,BREC01
+Microprocessors and Microcontrollers,BREC01
+Wireless Communication,BREC01
+Embedded Systems,BREC01
+Optical Fiber Communication,BREC01
+Digital Signal Processing,BREC02
+Microprocessors and Microcontrollers,BREC02
+Wireless Communication,BREC02
+Advanced Communication Systems,BREC02
+Optical Fiber Communication,BREC02
+Digital Signal Processing,BREC03
+Advanced Microcontrollers,BREC03
+Wireless Communication,BREC03
+Embedded Systems,BREC03
+Optical Fiber Communication,BREC03
+Operating Systems,BREC04
+Database Management Systems,BREC04
+Computer Networks,BREC04
+Artificial Intelligence,BREC04
+Software Engineering,BREC04
+Operating Systems,BREC05
+Data Structures,BREC05
+Computer Networks,BREC05
+Artificial Intelligence,BREC05
+Software Testing,BREC05
+Web Technologies,BREC06
+Database Management Systems,BREC06
+Computer Networks,BREC06
+Advanced AI,BREC06
+Software Engineering,BREC06
+Data Mining,BREC07
+Cloud Computing,BREC07
+Web Technologies,BREC07
+Big Data Analytics,BREC07
+Machine Learning,BREC07
+Data Mining,BREC08
+Cloud Computing,BREC08
+Web Development,BREC08
+Big Data Analytics,BREC08
+Machine Learning,BREC08
+Data Mining,BREC09
+Cloud Architecture,BREC09
+Web Technologies,BREC09
+Data Visualization,BREC09
+Machine Learning,BREC09
+Data Structures,BREC10
+Object-Oriented Programming,BREC10
+Computer Graphics,BREC10
+Information Security,BREC10
+Compiler Design,BREC10
+Data Structures,BREC11
+Object-Oriented Programming,BREC11
+Computer Graphics,BREC11
+Information Security,BREC11
+Compiler Design,BREC11
+Advanced Programming,BREC12
+Object-Oriented Analysis,BREC12
+Computer Graphics,BREC12
+Cybersecurity,BREC12
+Compiler Techniques,BREC12
+Fluid Mechanics,BREC13
+Thermodynamics,BREC13
+Machine Design,BREC13
+Heat Transfer,BREC13
+Manufacturing Processes,BREC13
+Structural Mechanics,BREC14
+Thermodynamics,BREC14
+Design Analysis,BREC14
+Heat Transfer,BREC14
+Manufacturing Tech,BREC14
+Fluid Mechanics,BREC15
+Advanced Thermodynamics,BREC15
+Machine Elements,BREC15
+Heat Transfer,BREC15
+Modern Manufacturing,BREC15
+Structural Analysis,BREC16
+Geotechnical Engineering,BREC16
+Transportation Engineering,BREC16
+Environmental Engineering,BREC16
+Construction Technology,BREC16
+Structural Analysis,BREC17
+Geotechnical Studies,BREC17
+Advanced Transportation,BREC17
+Environmental Engineering,BREC17
+Construction Management,BREC17
+Structural Analysis,BREC18
+Geotechnical Engineering,BREC18
+Transport Infrastructure,BREC18
+Water Resource Engineering,BREC18
+Civil Engineering Tech,BREC18
